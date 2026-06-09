@@ -1,31 +1,31 @@
 # Minecraft GalaxyAI Bot
 
-A bot for Minecraft powered by GalaxyAI.
+A Minecraft bot powered by GalaxyAI.
 
-## Getting Started
+## Status
 
-### Installation
+Version: v0.1.0
 
-```bash
-npm install
-```
+Project started:
+9 June 2026
 
-### Usage
+Current Progress:
+- Repository created
+- Project structure created
+- Planning phase
 
-```bash
-npm start
-```
+## Goals
 
-### Development
+- Connect to Minecraft servers
+- Respond to player commands
+- Mine blocks
+- Follow players
+- Execute AI-generated actions
 
-```bash
-npm run dev
-```
+## Roadmap
 
-## Documentation
-
-See the [docs](./docs) directory for detailed documentation.
-
-## Changelog
-
-See [CHANGELOG.md](./CHANGELOG.md) for version history.
+- [ ] Environment setup
+- [ ] Mineflayer integration
+- [ ] Command system
+- [ ] Action parser
+- [ ] AI integration
