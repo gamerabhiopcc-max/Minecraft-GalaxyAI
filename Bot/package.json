@@ -1,1 +1,11 @@
-"version": "0.1.0"
+{
+  "name": "minecraft-galaxyai-bot",
+  "version": "0.1.0",
+  "description": "Minecraft GalaxyAI Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "private": true,
+  "license": "ISC"
+}
