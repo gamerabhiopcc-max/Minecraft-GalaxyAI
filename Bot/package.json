@@ -7,5 +7,8 @@
     "start": "node src/index.js"
   },
   "private": true,
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^4.37.1"
+  }
 }
